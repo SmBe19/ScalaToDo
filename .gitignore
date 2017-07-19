@@ -1,0 +1,5 @@
+*.class
+*.todo
+.idea
+target
+project/target
